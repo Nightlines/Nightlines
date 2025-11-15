@@ -31,7 +31,4 @@ Here are some of the technologies and tools I work with:
 * **Email:** ctobriennet@gmail.com
 `)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-</p>
--->
+
