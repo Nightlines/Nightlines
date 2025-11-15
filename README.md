@@ -7,7 +7,7 @@ I'm a Cybersecurity and Network Engineering student at Cincinnati State and a He
 * 🌱 I’m currently a student in the **NETCCCS program (Cybersecurity)** at Cincinnati State.
 * 💼 I’m a **Helpdesk Technician** at CABVI, where I cut ticket resolution times by over 90%.
 * 💡 In a previous Network Administrator role, I reduced ticket response times from **15 days to just 1 hour**.
-* ⚙️ I'm skilled in: **Bash scripting**, **Azure**, **Active Directory**, **Docker**, and **Cisco networking**.
+* ⚙️ I'm skilled in: **Bash scripting**, **Azure**, **Active Directory**, **Docker**, **Cisco networking**, **AI**, **LLMS**, and **MCP**.
 * 🤝 I'm looking to collaborate on automation scripts or cloud-native projects.
 
 ---
