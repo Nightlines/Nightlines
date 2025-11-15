@@ -1,7 +1,5 @@
 # Hi there, I'm Cameron O'Brien 👋
 
-[Image of a computer network, cybersecurity, or code]
-
 I'm a results-driven Computer Networking and Cybersecurity student (3.85 GPA) and IT professional. My passion is applying my technical training to deliver real-world results. I thrive in hands-on roles where I can troubleshoot complex issues and optimize systems.
 
 * 💼 **Helpdesk Technician:** In my current role at CABVI, I managed the full IT support lifecycle and **slashed average ticket resolution time by over 90%** (from 2 days to under 60 minutes).
