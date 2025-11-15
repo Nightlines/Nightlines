@@ -1,6 +1,6 @@
 # Hi there, I'm Cameron O'Brien 👋
 
-
+[Image of a computer network, cybersecurity, or code]
 
 I'm a results-driven Computer Networking and Cybersecurity student (3.85 GPA) and IT professional. My passion is applying my technical training to deliver real-world results. I thrive in hands-on roles where I can troubleshoot complex issues and optimize systems.
 
@@ -18,13 +18,13 @@ This is a snapshot of the tools and technologies I've used in my professional an
 | Networking & Security | OS, Virtualization & Admin | Hardware & Desktop Support | Tools & Software |
 | :--- | :--- | :--- | :--- |
 | IP Routing (OSPF, EIGRP, Static) | Windows 10/11 | Built/Repaired 60+ PCs | PowerShell |
-| Firewall Configurations | Active Directory (AD) | Imaged/Installed 100+ Laptops | CMD |
-| Cisco Network Administration | Hyper-V | Remote Desktop Support | Wireshark |
-| Arctic Wolf Security | Oracle | Motherboards, NICs, RAM | Autoruns |
-| | | Software/Peripheral Config | Task Manager |
-| | | | RingCentral |
-| | | | Rut |
-| | | | MS Office |
+| Firewall Configurations | Windows Server (Implied) | Imaged/Installed 100+ Laptops | CMD (Command Prompt) |
+| Cisco Network Administration | Active Directory (AD) | Hardware/Software Troubleshooting | Wireshark |
+| Arctic Wolf Security | User & Group Management | Remote Desktop Support | MS Office Suite |
+| Network Troubleshooting | Group Policy (GPO) | OS Deployment & Imaging | Autoruns |
+| TCP/IP & Subnetting | Hyper-V | Component Installation | Task Manager |
+| Cisco IOS | Oracle VM | Printer Troubleshooting | RingCentral |
+| Ticketing Systems | Software/Peripheral Config | Rut |
 
 ---
 
