@@ -30,5 +30,5 @@ This is a snapshot of the tools and technologies I've used in my professional an
 
 ### 📫 How to Reach Me
 
-* **LinkedIn:** [Your LinkedIn Profile URL Here]
-* **Email:** Camerono2518@gmail.com
+* **LinkedIn:** [www.linkedin.com/in/cameron-o-brien-08b73131b]
+* **Email:** CTObriennet@gmail.com
