@@ -1,32 +1,30 @@
-# Hi there, I'm Cameron O'Brien 👋
+## Hi there, I'm Cameron O'Brien 👋
 
-I'm a results-driven Computer Networking and Cybersecurity student (3.85 GPA) and IT professional. My passion is applying my technical training to deliver real-world results. I thrive in hands-on roles where I can troubleshoot complex issues and optimize systems.
+I'm a results-driven Computer Networking and Cybersecurity student (3.85 GPA) and financial services professional. My passion lies in applying technical expertise and analytical problem-solving to deliver real-world results. I thrive in high-stakes environments where I can troubleshoot complex issues, optimize systems, and provide elite-level support.
 
-* 💼 **Helpdesk Technician:** In my current role at CABVI, I managed the full IT support lifecycle and **slashed average ticket resolution time by over 90%** (from 2 days to under 60 minutes).
-* ⚙️ **Network Administrator:** In a seasonal role at MY LOCKER, I managed infrastructure on 20 servers, administered a Cisco network for 150 users, and **reduced ticket response times from 15 days to just one hour**.
-* 🛠️ **Hardware Pro:** I have hands-on experience building and repairing over 60 PCs and have imaged and installed over 100 laptops with all peripherals and software.
-* 🏆 **Proven Performer:** I was commended by the CIO at MY LOCKER for "outstanding productivity" and am recognized by managers for "excellence in Customer Support and for building effective Teams".
+* 💼 **CRA in Training:** Currently at **Fidelity Investments**, where I am developing specialized expertise in client relationship advocacy and financial service operations.
+* 🌐 **Network Administration:** During a seasonal role at MY LOCKER, I managed infrastructure across 20 servers, administered a Cisco network for 150 users, and **reduced ticket response times from 15 days to just one hour**.
+* 🛠️ **Hardware Expert:** I have hands-on experience building and repairing 60+ PCs and have imaged and installed 100+ laptops including all peripherals and software.
+* 🏆 **Proven Performer:** Commended by the CIO at MY LOCKER for "outstanding productivity" and recognized by leadership for excellence in customer support and team collaboration.
 
 ---
 
-### 🛠️ My Technical Skillset
+### 🛠️ Technical Skillset
 
-This is a snapshot of the tools and technologies I've used in my professional and academic work.
+This is a snapshot of the tools and technologies I utilize across my professional and academic work.
 
 | Networking & Security | OS, Virtualization & Admin | Hardware & Desktop Support | Tools & Software |
 | :--- | :--- | :--- | :--- |
 | IP Routing (OSPF, EIGRP, Static) | Windows 10/11 | Built/Repaired 60+ PCs | PowerShell |
-| Firewall Configurations | Windows Server (Implied) | Imaged/Installed 100+ Laptops | CMD (Command Prompt) |
-| Cisco Network Administration | Active Directory (AD) | Hardware/Software Troubleshooting | Wireshark |
-| Arctic Wolf Security | User & Group Management | Remote Desktop Support | MS Office Suite |
-| Network Troubleshooting | Group Policy (GPO) | OS Deployment & Imaging | Autoruns |
-| TCP/IP & Subnetting | Hyper-V | Component Installation | Task Manager |
-| Cisco IOS | Oracle VM | Printer Troubleshooting | RingCentral |
-| Ticketing Systems | Software/Peripheral Config | Rut |
+| Firewall Configurations | Windows Server | Imaged/Installed 100+ Laptops | Wireshark |
+| Cisco Network Administration | Active Directory (AD) | Hardware Troubleshooting | MS Office Suite |
+| Arctic Wolf Security | User & Group Management | Remote Desktop Support | Autoruns |
+| TCP/IP & Subnetting | Group Policy (GPO) | OS Deployment & Imaging | RingCentral |
+| Network Troubleshooting | Hyper-V / Oracle VM | Peripheral Configuration | Ticketing Systems |
 
 ---
 
 ### 📫 How to Reach Me
 
-* **LinkedIn:** [www.linkedin.com/in/cameron-o-brien-08b73131b]
-* **Email:** CTObriennet@gmail.com
+* **LinkedIn:** [linkedin.com/in/cameron-o-brien-08b73131b](https://www.linkedin.com/in/cameron-o-brien-08b73131b)
+* **Email:** [CTObriennet@gmail.com](mailto:CTObriennet@gmail.com)
